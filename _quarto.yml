@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Eunkyung Yi"
+  site-url: "https://yieunkyung.github.io"
+  sitemap: true
 
 format:
   html:
