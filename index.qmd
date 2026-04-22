@@ -117,11 +117,11 @@ Park, Yong-Yae, **Eunkyung Yi**, Hanbyul Jung, et al. (2025). *High School Engli
 
 ### Recent Presentations
 ::: {.indented}
-Son, Ha Leem & **Eunkyung Yi** (2025). "Boy and girl" or "girl and boy": dialect, modality and frequency effects on the production of binomial expressions.Poster at the 38th Annual Conference on Human Sentence Processing (HSP2025). University of Maryland, College Park, MA, USA.\
+Son, Ha Leem & **Eunkyung Yi** (2025). "Boy and girl" or "girl and boy": dialect, modality and frequency effects on the production of binomial expressions. Poster at the 38th Annual Conference on Human Sentence Processing (HSP2025). University of Maryland, College Park, MA, USA.\
 \
-**Yi, Eunkyung** (2022). The role of case markers in sentence planning: evidence from Korean.\Talk at the 2022 Seoul International Conference on Linguistics (SICOL-2022). August 11–12, Seoul, South Korea.\
+**Yi, Eunkyung** (2022). The role of case markers in sentence planning: evidence from Korean. Talk at the 2022 Seoul International Conference on Linguistics (SICOL-2022). August 11–12, Seoul, South Korea.\
 \
-**Yi, Eunkyung** & Jia Kang (2021). The effects of input typicality (or variability) on the acquisition of argument structure constructions. (with Jia Kang). Short talk at the 34th Annual CUNY Conference on Human Sentence Processing (CUNY2021). University of Pennsylvania, PA, USA (virtual talk due to the pandemic).
+**Yi, Eunkyung** & Jia Kang (2021). The effects of input typicality (or variability) on the acquisition of argument structure constructions. Short talk at the 34th Annual CUNY Conference on Human Sentence Processing (CUNY2021). University of Pennsylvania, PA, USA (virtual due to the pandemic).
 
 **Yi, Eunkyung** & Sang-Hee Park (2021). What reaction times can reveal behind acceptability judgments. Short talk at CUNY2021.
 :::
@@ -134,13 +134,14 @@ Son, Ha Leem & **Eunkyung Yi** (2025). "Boy and girl" or "girl and boy": dialect
 Introduction to English Linguistics\
 Seminar in English Linguistics\
 English Syntax\
-English Phonetics\
 Pedagogical English Grammar\
 Practical English Grammar\
+English Phonetics\
 :::
 ##### Gradaute
 ::: {.indented}
-English Phonetics and Teaching Pronunciation\
+Seminar in English Linguistics and English Education\
 Seminar in English Education and Psycholinguistics\
-Seminar in English Linguistics and English Education
+English Phonetics and Teaching Pronunciation\
+
 :::
