@@ -14,7 +14,20 @@
     display: block;
     margin: 0 auto;
   }
+
+  
+  .affiliation {
+    text-align: center;
+  }
+
+  
+  #email {
+    display: block;
+    text-align: center;
+  }
 }
+
+
 
 h1 {
   background-color: #78c2ad;
