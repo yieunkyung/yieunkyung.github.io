@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Eunkyung Yi"
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: false
+
+
