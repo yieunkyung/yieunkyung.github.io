@@ -6,18 +6,14 @@ format:
 ---
 
 # Eunkyung Yi
-
 ::::: {.columns}
 ::: {.column width="30%"}
-\
-![](photo.jpg){width="210" style="border-radius: 6px;"}
+![](photo.jpg){width="180" style="border-radius: 6px;"}
 
 ::: {.affiliation}
 Associate Professor\
 Dept of English Education\
 Ewha Womans University\
-Seoul, South Korea\
-:::
 <span id="email"></span>
 <script>
 var user = "eyi";
@@ -25,12 +21,12 @@ var domain = "ewha.ac.kr";
 document.getElementById("email").innerHTML = user + "@" + domain;
 </script>
 :::
-
+:::
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="65%"}
-I'm an associate professor in the Department of English Education at Ewha Womans University in Seoul, South Korea. Born and raised in Seoul, I was always in love with foreign language learning, which eventually evolved into a deeper interest in language and how it works. I completed my BA in English Language and Literature at Seoul National University and went on to work in industry, though it did not take long to realize that academia is where I truly belong. I returned to my home university for my MA in English Linguistics, then went on to complete my PhD under the supervision of Prof. Jean-Pierre Koenig at the State University of New York at Buffalo. I taught at Seoul National University before joining Ewha in 2021. My research interests include online sentence planning, the role of lexical information in sentence and discourse processing, and crosslinguistic differences in language processes.
+I'm an associate professor in the Department of English Education at Ewha Womans University in Seoul, South Korea. Born and raised in Seoul, I was always in love with foreign language learning, which eventually evolved into a deeper interest in language and how it works. I completed my BA and MA at Seoul National University and did my PhD under the supervision of Prof. Jean-Pierre Koenig at the State University of New York at Buffalo. I joined Ewha in 2021. My research interests include the syntax-semantics interface, online sentence planning, discourse processing,and crosslinguistic differences in language processes.
 
 [Researchgate](https://www.researchgate.net/profile/Eunkyung-Yi) \| [Google Scholar](https://https://scholar.google.com/citations?user=TUHBYzAAAAAJ&hl=en) \| [FAQ](faq.qmd)
 :::
@@ -42,18 +38,12 @@ I'm an associate professor in the Department of English Education at Ewha Womans
 
 ::::: {.columns}
 
-:::: {.column width="7%"}
-::: {.indented}
-PhD\
-MA\
-BA
-:::
-::::
+::: {.education}
+PhD in Linguistics, State University of New York at Buffalo, NY, USA. 2016
 
-::: {.column width="93%"}
-Linguistics, State University of New York at Buffalo, NY, USA. 2016\
-English Linguistics, Seoul National University, Seoul, South Korea. 2007\
-English Language and Literature (Double major in Chinese Language and Literature), Seoul National University, Seoul, South Korea. 2001
+MA in English Linguistics, Seoul National University, Seoul, South Korea. 2007
+
+BA in English Language and Literature (double major in Chinese Language and Literature), Seoul National University, Seoul, South Korea. 2001
 :::
 
 ::::

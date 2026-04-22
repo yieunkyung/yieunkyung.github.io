@@ -1,5 +1,21 @@
 /* css styles */
 
+@media (max-width: 768px) {
+  .columns {
+    display: block !important;
+  }
+  
+  .column {
+    width: 100% !important;
+    margin-bottom: 1rem;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+}
+
 h1 {
   background-color: #78c2ad;
   color: white;
@@ -10,7 +26,7 @@ h1 {
 }
 
 .affiliation {
-  font-size: .95rem;
+  font-size: .9.2rem;
 }
 
 h3 {
@@ -30,3 +46,10 @@ h5 {
 .indented {
   padding-left: 0.3rem;
 }
+
+.education p {
+  padding-left: 3rem;
+  text-indent: -3rem;
+  margin-bottom: 0.1rem;
+}
+
