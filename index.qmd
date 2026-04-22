@@ -140,7 +140,7 @@ Practical English Grammar\
 :::
 ##### Gradaute
 ::: {.indented}
-English Phonetics and Teaching Pronunciation (Graduate)\
-Seminar in English Education and Psycholinguistics (Graduate)\
-Seminar in English Linguistics and English Education (Graduate)
+English Phonetics and Teaching Pronunciation\
+Seminar in English Education and Psycholinguistics\
+Seminar in English Linguistics and English Education
 :::
