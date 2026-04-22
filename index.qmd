@@ -17,9 +17,13 @@ Associate Professor\
 Dept of English Education\
 Ewha Womans University\
 Seoul, South Korea\
-
-[eyi\@ewha.ac.kr](mailto:eyi@ewha.ac.kr)\
 :::
+<span id="email"></span>
+<script>
+var user = "eyi";
+var domain = "ewha.ac.kr";
+document.getElementById("email").innerHTML = user + "@" + domain;
+</script>
 :::
 
 ::: {.column width="5%"}
@@ -36,16 +40,17 @@ I'm an associate professor in the Department of English Education at Ewha Womans
 
 ### Education
 
-:::: {.columns}
+::::: {.columns}
 
-::: {.column width="6%"}
+:::: {.column width="7%"}
+::: {.indented}
 PhD\
 MA\
 BA
-
 :::
+::::
 
-::: {.column width="94%"}
+::: {.column width="93%"}
 Linguistics, State University of New York at Buffalo, NY, USA. 2016\
 English Linguistics, Seoul National University, Seoul, South Korea. 2007\
 English Language and Literature (Double major in Chinese Language and Literature), Seoul National University, Seoul, South Korea. 2001
@@ -58,6 +63,7 @@ English Language and Literature (Double major in Chinese Language and Literature
 
 ##### Refereed journal articles
 
+::: {.indented}
 Park, Sang-Hee & **Eunkyung Yi** (2024). Definiteness and context in double-accusative ditransitives in Korean: An experimental approach. *Linguistic Research* 41(3), 345–366.
 
 **Yi, Eunkyung** (2024). The interplay of grammar and discourse: Evidence from monologic settings in Korean. *Language and Information* 28(2), 99–118.
@@ -93,49 +99,48 @@ Yun, Hongoak & **Eunkyung Yi** (2019). The role of frequency in the processing o
 **Yi, Eunkyung** (2016). What modulates the resultative alternation? A corpus-based study. *Korean Journal of Linguistics* 41(4), 661–678.
 
 **Yi, Eunkyung** (2006). The fake reflexive resultative construction in Korean. *Korean Journal of English Language and Linguistics* 6(1), 135–154.
-
+:::
 ##### Book chapter
-
+::: {.indented}
 **Yi, Eunkyung** & Koenig, Jean-Pierre (2016). Why verb meaning matters to syntax. In J. Fleischhauer, A. Latrouite & R. Osswald (eds.), *Explorations of the syntax-semantics interface*, pp. 57–76. Düsseldorf University Press.
+:::
 
 ##### Dissertation
-
+::: {.indented}
 **Yi, Eunkyung** (2016). Exploring the cognitive underpinnings of the correspondence between verb meaning and syntax. State University of New York at Buffalo. (Committee: Prof. Jean-Pierre Koenig (chair), Prof. Douglas Roland, & Prof. Gail Mauner). [\[Full Text\]](https://yieunkyung.weebly.com/uploads/1/3/0/0/130064697/yieunkyung2016_dissertation_proquest.pdf)
-
-##### Non-academic publications
-
+:::
+##### Non-academic publication
+::: {.indented}
 Park, Yong-Yae, **Eunkyung Yi**, Hanbyul Jung, et al. (2025). *High School English 1 & 2* (Ministry of Education-authorized textbook). Dong-A Publishing.
-
+:::
 ------------------------------------------------------------------------
 
 ### Recent Presentations
+::: {.indented}
+Son, Ha Leem & **Eunkyung Yi** (2025). "Boy and girl" or "girl and boy": dialect, modality and frequency effects on the production of binomial expressions.Poster at the 38th Annual Conference on Human Sentence Processing (HSP2025). University of Maryland, College Park, MA, USA.\
+\
+**Yi, Eunkyung** (2022). The role of case markers in sentence planning: evidence from Korean.\Talk at the 2022 Seoul International Conference on Linguistics (SICOL-2022). August 11–12, Seoul, South Korea.\
+\
+**Yi, Eunkyung** & Jia Kang (2021). The effects of input typicality (or variability) on the acquisition of argument structure constructions. (with Jia Kang). Short talk at the 34th Annual CUNY Conference on Human Sentence Processing (CUNY2021). University of Pennsylvania, PA, USA (virtual talk due to the pandemic).
 
-**2025**\
-- "Boy and girl" or "girl and boy": dialect, modality and frequency effects on the production of binomial expressions. (with Ha Leem Son)\Poster at the 38th Annual Conference on Human Sentence Processing (HSP2025). University of Maryland, College Park, MA, USA.
-
-**2023**\
-- Spoken acceptability judgment on Korean ditransitives: comparison with written judgment.\Talk at the Winter Conference of the Linguistic Society of Korea, Kyunghee University, Seoul, South Korea.
-
-**2022**\
-- The role of case markers in sentence planning: evidence from Korean.\Talk at the 2022 Seoul International Conference on Linguistics (SICOL-2022). August 11–12, Seoul, South Korea.
-
-**2021**\
-Short talks at the 34th Annual CUNY Conference on Human Sentence Processing, University of Pennsylvania, PA, USA.\
-- The effects of input typicality (or variability) on the acquisition of argument structure constructions. (with Jia Kang)\
-- What reaction times can reveal behind acceptability judgments. (with Sang-Hee Park)\
-
+**Yi, Eunkyung** & Sang-Hee Park (2021). What reaction times can reveal behind acceptability judgments. Short talk at CUNY2021.
+:::
 ------------------------------------------------------------------------
 
 ### Teaching
 
-##### At Ewha Womans University (since 2021)
-
+##### Undergradaute
+::: {.indented}
 Introduction to English Linguistics\
 Seminar in English Linguistics\
 English Syntax\
 English Phonetics\
 Pedagogical English Grammar\
 Practical English Grammar\
+:::
+##### Gradaute
+::: {.indented}
 English Phonetics and Teaching Pronunciation (Graduate)\
 Seminar in English Education and Psycholinguistics (Graduate)\
 Seminar in English Linguistics and English Education (Graduate)
+:::

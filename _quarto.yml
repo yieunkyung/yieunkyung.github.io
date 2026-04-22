@@ -10,5 +10,6 @@ format:
     theme: minty
     css: styles.css
     toc: false
+    anchor-sections: false
 
 
